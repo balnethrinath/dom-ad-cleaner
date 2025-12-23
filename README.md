@@ -7,6 +7,9 @@ using safe runtime DOM manipulation.
 It focuses on improving page readability and usability **without blocking
 network requests or interfering with core site functionality**.
 
+
+![Demo](./assets/demo.gif)
+
 ---
 
 ## ✨ Features
