@@ -1,14 +1,13 @@
 {
   "manifest_version": 3,
   "name": "DOM Ad Cleaner",
-  "version": "1.0",
-  "description": "Removes intrusive DOM-based ads and overlays at runtime.",
+  "version": "1.2",
+  "description": "Removes intrusive DOM-based ads, banners, and overlays using safe runtime DOM cleanup.",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
       "js": ["content.js"],
       "run_at": "document_idle"
     }
-  ],
-  "permissions": []
+  ]
 }
