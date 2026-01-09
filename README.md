@@ -73,3 +73,10 @@ DOM Ad Cleaner is designed to complement—not replace—full ad blockers.
 ## 📄 License
 
 MIT
+
+---
+
+## ⭐ Support
+
+If FocusTube helps you stay focused, consider giving the project a ⭐ on GitHub.  
+It helps others discover the project and supports continued improvement.
